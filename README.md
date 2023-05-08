@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning php framework code igninter 4
+
 <!--
 **Maulanaysf002/Maulanaysf002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
