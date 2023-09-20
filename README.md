@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning codeigninter 4, flask
+- 🌱 I’m currently learning Laravel, web, and Data
+-  📫 How to reach me: maulanaysf002@gmail.com
 
 <!--
 **Maulanaysf002/Maulanaysf002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
