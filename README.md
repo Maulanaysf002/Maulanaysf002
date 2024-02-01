@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Laravel, web, and Data
+- 🌱 I’m currently learning Laravel, Next js, and Data
 -  📫 How to reach me: maulanaysf002@gmail.com
 
 <!--
