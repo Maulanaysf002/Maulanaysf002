@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Laravel, Next js, and Data Analyst
--  📫 How to reach me: maulanaysf002@gmail.com
+-  📫 How to reach me: maulanaysf.dev@gmail.com
 
 <!--
 **Maulanaysf002/Maulanaysf002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
