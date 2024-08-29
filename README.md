@@ -24,9 +24,9 @@ I am a Software Developer with a passion for building impactful software solutio
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/maulanaysf202)
-- Email: [your.email@example.com](mailto:maulanaysf.dev@gmail.com)
+- LinkedIn: [maulanaysf202](https://linkedin.com/in/maulanaysf202)
+- Email: [maulanaysf.dev@gmail.com](mailto:maulanaysf.dev@gmail.com)
 
 ---
 
-⭐️ From [username](https://github.com/Maulanaysf002)
+⭐️ From [Maulanaysf002](https://github.com/Maulanaysf002)
