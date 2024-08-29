@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Maulana Yusuf
 
 [![GitHub followers](https://img.shields.io/github/followers/Maulanaysf002?label=Follow&style=social)](https://github.com/Maulanaysf002)
 [![Instagram Follow](https://img.shields.io/badge/Follow%20me%20on-Instagram-red?style=social&logo=instagram)](https://instagram.com/maulyusf)
