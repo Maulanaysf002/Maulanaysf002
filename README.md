@@ -12,10 +12,6 @@ I am a Software Developer with a passion for building impactful software solutio
 - 📫 How to reach me: maulanaysf.dev@gmail.com
 - ⚡ Fun fact: Biggest Manchester United Fans.
 
-## My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maulanaysf002&show_icons=true&theme=radical)
-
 ## Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maulanaysf002&layout=compact&theme=radical)
