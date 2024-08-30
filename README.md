@@ -15,6 +15,7 @@ I am a Software Developer with a passion for building impactful software solutio
 ## Languages and Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maulanaysf002&layout=compact&theme=radical)
+
 ![Tools](https://img.shields.io/badge/Tools-React%2C%20Node.js%2C%20Tailwind%20CSS%2C%20Laravel%2C%20Git-blue?style=flat-square)
 
 
