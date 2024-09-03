@@ -21,10 +21,13 @@ I am a Software Developer with a passion for building impactful software solutio
 ![github Stat](https://github-readme-streak-stats.herokuapp.com/?user=Maulanaysf002&theme=gruvbox&hide_border=false)</br>
 ![Tools](https://img.shields.io/badge/Tools-React%2C%20Node.js%2C%20Tailwind%20CSS%2C%20Laravel%2C%20Git-blue?style=flat-square)
 
+## Trophy
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Maulanaysf002&theme=gruvbox)
 
 ## Get in Touch
 
-- LinkedIn: [maulanaysf202](https://linkedin.com/in/maulanaysf202)
+- <a href="https://linkedin.com/in/maulanaysf202" target="_blank">LinkedIn</a>
 - Email: [maulanaysf.dev@gmail.com](mailto:maulanaysf.dev@gmail.com)
 
 ---
