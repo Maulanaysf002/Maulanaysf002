@@ -27,7 +27,7 @@ I am a Software Developer with a passion for building impactful software solutio
 
 ## Get in Touch
 
-- <a href="https://linkedin.com/in/maulanaysf202" target="_blank">LinkedIn</a>
+- [LinkedIn](https://linkedin.com/in/maulanaysf202)
 - Email: [maulanaysf.dev@gmail.com](mailto:maulanaysf.dev@gmail.com)
 
 ---
